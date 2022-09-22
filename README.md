@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charan-Nandarapu&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Nandarapu&layout=compact)](https://github.com/Charan-Nandarapu/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Charan-Nandarapu&color=brightgreen&label=PROFILE+VIEWS)
